@@ -72,6 +72,7 @@ public class EventoDTO {
     }
 
     public String getHoraFim() {
+        //
         return horaFim;
     }
 
